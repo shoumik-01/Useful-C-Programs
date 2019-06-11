@@ -4,4 +4,4 @@ Small C programs that can be compiled with GCC. Useful in Linux. Code mostly cop
 
 How to compile:
 
-gcc <cfile> -o <output binary>
+gcc cfile -o output_binary
